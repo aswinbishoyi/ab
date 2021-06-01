@@ -1,0 +1,17 @@
+hr {
+border-style: none;
+border-top-style: dotted;
+background-color: grey;
+border-width: 2px;
+width: 10%;
+}
+img {
+  height: 120px;
+}
+
+h1{
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+}
